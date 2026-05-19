@@ -1,0 +1,12 @@
+gradio
+pillow
+opencv-python
+pytesseract
+transformers
+torch
+torchvision
+numpy
+pandas
+layoutparser
+pdf2image
+python-dotenv
